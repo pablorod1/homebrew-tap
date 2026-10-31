@@ -1,6 +1,6 @@
 cask "kodisle" do
-  version "0.1.0"
-  sha256 "b1acfc304d9a4010794560de0b7a669e02eb4912b96beee9decf91aaebffad99"
+  version "0.1.1"
+  sha256 "02574f6f3904b39bf9cf0af2d7d256fc3a91477c7c37c81e89463c6d7c3ad473"
 
   url "https://github.com/pablorod1/kodisle/releases/download/v#{version}/Kodisle.zip"
   name "Kodisle"
